@@ -12,12 +12,12 @@ Understanding personal social media habits provides insights into how external f
 3. Are there seasonal trends in posting frequency, such as increased activity during summer or holidays?
 4. How do life events (e.g., period, stomach ache, travels, exams) impact the type and frequency of posts?
 
-## Data Collection
+## Planned Data Collection
 - **Source:** Instagram’s data export feature for personal accounts.
 - **Source:** Period data from samsung health, Flo app, and my diaries combined, manually to some extent. Will be stored in a pandas dataframe.
 - **Content:** Extract metadata such as timestamps, captions, hashtags, and archived post information.
 
-## Methodology
+## Proposed Methodology
 ### 1. Data Preprocessing
 - Parse Instagram data into a structured dataset with fields like `date`, `time`, `caption`, `hashtags`, and `content type`.
 
