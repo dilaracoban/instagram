@@ -24,6 +24,9 @@ Understanding personal social media habits can provide insights into how externa
 ### Language Distribution in Captions
 -  The majority of captions are in Turkish (\~90%), followed by English.A tool I tried to categorize other languages but most were turkish with many stylistic typos and language identifiers misidentified them. 
 - See a few examples:
+
+
+
 Language: it
 bi sevgi faresi ile netflix gecesi ✨🌸💅
 Ilkeyi morarttim
