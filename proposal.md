@@ -1,10 +1,10 @@
-# Days of my Period and Evolution of Instagram Posting Patterns
+# Evolution of Instagram Posting Patterns / Eras of @dilarakimdi
 
 ## Objective
-I love using social media as my diary. I had this private account just for my friends where I posted smallest details of my life along with memes, my blog posts, biology olympiads tricks, YKS (higher education exam) prep tips, my research on molecules etc. I always knew that there are some months / or days of months where I just post, and I believe that it is possible to find strong correlations between my mood and posting behaviors. My period affects my mental situation and stress conditions, which presumably affects in posting behavior. This project aims to analyze how my Instagram posting frequency and content types have evolved since 2017, identifying trends related to period data, seasons, events, and personal milestones such as holidays, travels, and exam periods.
+I love using social media as my diary. I had this private account just for my friends where I posted smallest details of my life along with memes, my blog posts, biology olympiads tricks, YKS (higher education exam) prep tips, my research on molecules etc. I always knew that there are some months / or days of months where I just post, and I believe that it is possible to find strong correlations between my mood and posting behaviors. Aim of this project is to analyze mental situation and stress conditions, which presumably affects in posting behavior. This project aims to analyze how my Instagram posting frequency and content types have evolved since 2017, identifying trends related to seasons, events, and personal milestones such as holidays, travels, and exam periods.
 
 ## Motivation
-Understanding personal social media habits provides insights into how external factors like hormonal raise and periods, seasons, events, and stress influence online activity. This project aims to uncover meaningful patterns and trends that reflect changes in personal behavior and preferences over time.
+Understanding personal social media habits provides insights into how external factors, seasons, events, and stress influence online activity. This project aims to uncover meaningful patterns and trends that reflect changes in personal behavior and preferences over time.
 
 ## Research Questions
 1. How has my Instagram posting frequency changed over time?
